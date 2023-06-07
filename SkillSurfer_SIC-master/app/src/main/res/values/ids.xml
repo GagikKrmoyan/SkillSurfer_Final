@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="courseImage" type="id" />
+    <item name="paid_title" type="id" />
+    <item name="favoriteButton" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="phoneEditText" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="registerButton" type="id" />
+    <item name="editText_price" type="id" />
+</resources>

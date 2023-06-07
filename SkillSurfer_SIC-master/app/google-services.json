@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "198811616912",
+    "project_id": "skillsurfer-2195c",
+    "storage_bucket": "skillsurfer-2195c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198811616912:android:a9bf26308b1981d9c17a15",
+        "android_client_info": {
+          "package_name": "com.example.diliproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198811616912-4d6hijanm5t1jlejtkvkvblk9emcdhn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2Bc9yEvknp2H6S896KqMEtcTCt7jBAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198811616912-4d6hijanm5t1jlejtkvkvblk9emcdhn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198811616912:android:857273ebfdbbb527c17a15",
+        "android_client_info": {
+          "package_name": "com.example.examp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198811616912-4d6hijanm5t1jlejtkvkvblk9emcdhn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2Bc9yEvknp2H6S896KqMEtcTCt7jBAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198811616912-4d6hijanm5t1jlejtkvkvblk9emcdhn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

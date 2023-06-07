@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SkillSurfer</string>
+    <string name="skillsurfer_login">SkillSurfer Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="skillsurfer_register">SkillSurfer Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string name="menu_dashboard" />
+    <string name="menu_home" />
+    <string name="about_us">About us</string>
+    <string name="favorite">favorite</string>
+    <string name="search">Search</string>
+    <string name="add">add</string>
+    <string name="photo">photo</string>
+    <string name="already_registered">already registered</string>
+    <string name="repeat_password">repeat password</string>
+    <string name="skillsurfer_registration">SkillSurfer Registration</string>
+    <string name="all_categories">All</string>
+    <string name="change_password">Change Password</string>
+    <string name="help">help</string>
+
+    <string-array name="categories_array">
+
+
+        <item>Languages</item>
+        <item>IT</item>
+        <item>Business</item>
+        <item>Cooking</item>
+        <item>Social Skills</item>
+        <item>Other</item>
+
+
+
+
+
+    </string-array>
+
+</resources>
